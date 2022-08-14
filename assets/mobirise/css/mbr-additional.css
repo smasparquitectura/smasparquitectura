@@ -1108,10 +1108,10 @@ a {
   }
 }
 .cid-teoxNE9NeO .mbr-section-title {
-  text-align: center;
+  text-align: left;
 }
 .cid-teoxNE9NeO .mbr-text {
-  text-align: center;
+  text-align: left;
 }
 .cid-KCVrXaos79 {
   background-color: #ffffff;
@@ -1128,10 +1128,10 @@ a {
   background-color: #ffffff;
 }
 .cid-teoIwVILLE .mbr-section-subtitle {
-  text-align: center;
+  text-align: left;
 }
 .cid-teoIwVILLE .mbr-text {
-  text-align: center;
+  text-align: left;
 }
 .cid-teqmELLa13 {
   padding-top: 6rem;
@@ -1148,8 +1148,15 @@ a {
     width: 100%;
   }
 }
+.cid-teqmELLa13 .mbr-section-title {
+  text-align: center;
+}
+.cid-teqmELLa13 .mbr-text,
+.cid-teqmELLa13 .mbr-section-btn {
+  text-align: center;
+}
 .cid-teq1ERF6SD {
-  padding-top: 4rem;
+  padding-top: 8rem;
   padding-bottom: 4rem;
   background-color: #fafafa;
 }
@@ -1157,7 +1164,7 @@ a {
 .cid-teq1ERF6SD .item-img {
   width: 100%;
   height: 100%;
-  height: 400px;
+  height: 500px;
   object-fit: cover;
 }
 .cid-teq1ERF6SD .item:focus,
@@ -1191,6 +1198,7 @@ a {
 }
 .cid-teq1ERF6SD .mbr-section-title {
   color: #232323;
+  text-align: left;
 }
 .cid-teq1ERF6SD .mbr-text,
 .cid-teq1ERF6SD .mbr-section-btn {
@@ -1200,6 +1208,9 @@ a {
   text-align: center;
 }
 .cid-teq1ERF6SD .item-subtitle {
+  text-align: left;
+}
+.cid-teq1ERF6SD .mbr-section-subtitle {
   text-align: left;
 }
 .cid-teoY7pvl5q {
